@@ -3,7 +3,11 @@
 An evaluation-driven, privacy-preserving AI customer support agent for Aster & Row built with Python, OpenAI (`gpt-4o` and `text-embedding-3-small`), Pydantic, and vector similarity search.
 
 ---
+## Demo
 
+[![Watch Demo Walkthrough](https://img.youtube.com/vi/6wcFhtPIMIQ/0.jpg)](https://youtu.be/6wcFhtPIMIQ)
+
+*Click the thumbnail above to watch the video demonstration walkthrough on YouTube.*
 ---
 
 ## Tech Stack & Architecture
